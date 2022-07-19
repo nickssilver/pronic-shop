@@ -32,8 +32,6 @@
             class="btn btn-danger btn-block btn-lg mx-auto float">Cart Ksh. <span id="cartValue">0.00</span></button>
 
     </div>
-
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="assets/app.js"></script>
@@ -79,7 +77,6 @@
                         </div>
                         <button id="paynow" type="button" class="btn btn-lg btn-success">Pay Now</button>
                     </div>
-
                 </form>
             </div>
         </div>
