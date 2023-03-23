@@ -6,5 +6,5 @@ API.
 Remember to change CALL BACK <URL> under config.php
 
 
-[Pronic](https://pronic.co.ke)
+Copyrights© [Pronic](https://pronic.co.ke)
   
